@@ -1,7 +1,7 @@
 # EmotionDetection
 
 ## Project Name
-Emotion Detector
+Final Project - Emotion Detector
 
 ## Purpose
 A web application that analyzes text input and detects the dominant emotion (anger, disgust, fear, joy, sadness) using IBM Watson NLP library. Built as the final project for the Python for Applied Data Science and AI course.
